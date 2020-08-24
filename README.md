@@ -12,7 +12,7 @@ banner made with canva
 
 <!--badges-->
 <!-- <img src="https://komarev.com/ghpvc/?username=hedythedev" alt="hedythedev" />  -->
-<img src="https://img.shields.io/badge/Release-12%20March-lightblue" alt="release: 12th March" /><img src="https://img.shields.io/badge/Pronouns-She%2FHer-pink" alt="pronouns: she/her" /><img src="https://img.shields.io/badge/%F0%9F%94%A7Editor-vscode-yellow" alt="Editor: VSCode"><img src="https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen" alt="status: up and running" />  
+<img src="https://img.shields.io/badge/Release-12%20March-lightblue" alt="release: 12th March" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-pink" alt="pronouns: she/her" /> <img src="https://img.shields.io/badge/%F0%9F%94%A7Editor-vscode-yellow" alt="Editor: VSCode"> <img src="https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen" alt="status: up and running" />  
 
 <!--
 1. profile view count
@@ -42,7 +42,7 @@ banner made with canva
 
    - I speak fluent English, Hindi, Bengali and Marathi. I can read and write Arabic too! :100:
    - I am *very* fond of sociolinguistics and etymology. So feel free to hit me up for a chat about them! :computer:
-   - Favorite emoji: :sparkle: (the *fairy dust*)
+   - Favorite emoji: :sparkles: (the *fairy dust*)
    - Listening to music helps me concentrate :headphones:
 
 
