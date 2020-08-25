@@ -24,7 +24,7 @@ banner made with canva
 
 <strong>🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/anushkawakankar/Ontologies"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Ontologies" width=350> </a> <a href="https://github.com/anushkawakankar/Word-Prediction"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Word-Prediction" width=350> </a>
+<a href="https://github.com/anushkawakankar/Handy_codes"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Handy_codes" width=350> </a> <a href="https://github.com/anushkawakankar/Word-Prediction"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Word-Prediction" width=350> </a>
 
 
 
