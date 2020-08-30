@@ -57,6 +57,8 @@ banner made with canva
 <img src="https://github-readme-stats.vercel.app/api?username=anushkawakankar&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkawakankar&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=anushkawakankar&show_icons=true&theme=radical)
+
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
 
