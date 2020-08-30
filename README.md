@@ -54,7 +54,8 @@ banner made with canva
 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=anushkawakankar&show_icons=true&theme=dark&count_private=true&hide=issues,prs)
+![My github stats](https://github-readme-stats.vercel.app/api?username=anushkawakankar&show_icons=true&theme=radical&count_private=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkawakankar&layout=compact&theme=radical)](https://github.com/anushkawakankar/github-readme-stats)
 
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
