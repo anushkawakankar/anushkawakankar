@@ -27,7 +27,6 @@ banner made with canva
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Word-Prediction&theme=radical)](https://github.com/anushkawakankar/Word-Prediction)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Handy_codes&theme=radical)](https://github.com/anushkawakankar/Handy_codes)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Word-Prediction&theme=radical)](https://github.com/anushkawakankar/Word-Prediction)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Integrate-with-Machine-Learning-APIs-Challenge-Lab&theme=radical)](https://github.com/anushkawakankar/Integrate-with-Machine-Learning-APIs-Challenge-Lab)
 
 
