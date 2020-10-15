@@ -12,7 +12,7 @@ banner made with canva
 
 <!--badges-->
 <!-- <img src="https://komarev.com/ghpvc/?username=hedythedev" alt="hedythedev" />  -->
-<img src="https://img.shields.io/badge/Release-12%20March-lightblue" alt="release: 12th March" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-pink" alt="pronouns: she/her" /> <img src="https://img.shields.io/badge/%F0%9F%94%A7Editor-vscode-yellow" alt="Editor: VSCode"> <img src="https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen" alt="status: up and running" />  
+<img src="https://img.shields.io/badge/Release-12%20March-lightblue" alt="release: 12th March" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-pink" alt="pronouns: she/her" /> <img src="https://img.shields.io/badge/%F0%9F%94%A7Editor-vscode-yellow" alt="Editor: VSCode"> <img src="https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen" alt="status: up and running" />  <img src="https://img.shields.io/badge/Vibe-awesome-blueviolet" alt="vibe: awesome" />
 
 <!--
 1. profile view count
