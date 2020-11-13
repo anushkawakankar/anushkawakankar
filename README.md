@@ -28,7 +28,7 @@ banner made with canva
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Word-Prediction&theme=radical)](https://github.com/anushkawakankar/Word-Prediction)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Handy_codes&theme=radical)](https://github.com/anushkawakankar/Handy_codes)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Integrate-with-Machine-Learning-APIs-Challenge-Lab&theme=radical)](https://github.com/anushkawakankar/Integrate-with-Machine-Learning-APIs-Challenge-Lab)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=Musical-Aptitude-Prediction&theme=radical)](https://github.com/anushkawakankar/Musical-Aptitude-Prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anushkawakankar&repo=BigTable-using-BigQuery-Python-API&theme=radical)](https://github.com/anushkawakankar/BigTable-using-BigQuery-Python-API)
 
 
 
