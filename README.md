@@ -13,7 +13,9 @@ banner made with canva
 <!--badges-->
 <!-- <img src="https://komarev.com/ghpvc/?username=hedythedev" alt="hedythedev" />  -->
 <img src="https://img.shields.io/badge/Release-12%20March-lightblue" alt="release: 12th March" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-pink" alt="pronouns: she/her" /> <img src="https://img.shields.io/badge/%F0%9F%94%A7Editor-vscode-yellow" alt="Editor: VSCode"> <img src="https://img.shields.io/badge/Status-Up%20and%20Running-lightgreen" alt="status: up and running" />  <img src="https://img.shields.io/badge/Vibe-awesome-blueviolet" alt="vibe: awesome" />
-[![Anushka Wakankar's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/anushkawakankar)
+<a href="https://dev.to/anushkawakankar">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anushka Wakankar's DEV Profile" height="30" width="30">
+</a>
     
 
 <!--
