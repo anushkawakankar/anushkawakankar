@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
+<!--
 <img src="https://raw.githubusercontent.com/anushkawakankar/anushkawakankar/master/assets/banner.png" alt="Hey, I'm Hedy [banner]" />
-
+-->
 <!--
 banner made with canva
 -->
